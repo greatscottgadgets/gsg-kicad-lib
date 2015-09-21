@@ -1,4 +1,4 @@
-(module GSG-SOT23-3 (layer F.Cu) (tedit 5600749C)
+(module SOT23-3 (layer F.Cu) (tedit 5600749C)
   (tags "CMS SOT")
   (attr smd)
   (fp_text reference SOT23-3 (at 0 0) (layer F.SilkS)

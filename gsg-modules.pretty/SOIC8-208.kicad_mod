@@ -1,5 +1,5 @@
-(module GSG-SOIC8-208 (layer F.Cu) (tedit 4F8A53A2)
-  (fp_text reference GSG-SOIC8-208 (at 0 0) (layer F.SilkS)
+(module SOIC8-208 (layer F.Cu) (tedit 4F8A53A2)
+  (fp_text reference SOIC8-208 (at 0 0) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
   (fp_text value VAL** (at 0 0) (layer F.SilkS) hide
