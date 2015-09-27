@@ -11,11 +11,9 @@
   (fp_line (start 1.524 -0.381) (end 1.524 0.381) (layer F.SilkS) (width 0.127))
   (fp_line (start 1.524 0.381) (end -1.524 0.381) (layer F.SilkS) (width 0.127))
   (fp_line (start -1.524 0.381) (end -1.524 -0.381) (layer F.SilkS) (width 0.127))
-  (pad 2 smd rect (at -0.889 -1.016) (size 0.9144 0.9144) (layers F.Cu F.Paste F.Mask)
-    (die_length 0.00762))
+  (pad 2 smd rect (at -0.889 -1.016) (size 0.9144 0.9144) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 0.889 -1.016) (size 0.9144 0.9144) (layers F.Cu F.Paste F.Mask))
-  (pad 3 smd rect (at 0 1.016) (size 0.9144 0.9144) (layers F.Cu F.Paste F.Mask)
-    (die_length 0.28194))
+  (pad 3 smd rect (at 0 1.016) (size 0.9144 0.9144) (layers F.Cu F.Paste F.Mask))
   (model smd/cms_sot23.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.13 0.15 0.15))

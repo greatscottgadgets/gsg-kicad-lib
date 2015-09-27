@@ -13,6 +13,6 @@
   (pad 2 smd rect (at 0.5334 0) (size 0.508 0.5588) (layers F.Cu F.Mask)
     (solder_mask_margin 0.1016))
   (pad 1 smd rect (at -0.5334 0) (size 0.508 0.5588) (layers F.Cu F.Mask)
-    (die_length -2147.483648) (solder_mask_margin 0.1016))
+    (solder_mask_margin 0.1016))
   (pad "" smd rect (at 0 0) (size 0.762 0.254) (layers F.Cu F.Mask))
 )
