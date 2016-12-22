@@ -1,6 +1,4 @@
 (module QFN20-4 (layer F.Cu) (tedit 527E5841)
-  (solder_mask_margin 0.07112)
-  (clearance 0.1524)
   (fp_text reference QFN20-4 (at 0 0) (layer F.SilkS)
     (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
   )

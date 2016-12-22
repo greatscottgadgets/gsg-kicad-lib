@@ -1,7 +1,5 @@
 (module QFN32-5 (layer F.Cu) (tedit 527E5F01)
   (tags LFCSP)
-  (solder_mask_margin 0.07112)
-  (clearance 0.1524)
   (fp_text reference QFN32-5 (at 0 0) (layer F.SilkS)
     (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
   )
