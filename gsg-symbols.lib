@@ -1410,4 +1410,51 @@ X XC2 9 100 -650 150 U 50 50 1 1 O
 ENDDRAW
 ENDDEF
 #
+# SMP1330-005LF
+#
+DEF SMP1330-005LF D 0 40 Y N 1 L N
+F0 "D" -350 150 50 H V L BNN
+F1 "SMP1330-005LF" 100 150 50 H V L BNN
+F2 "SOT23-DD" 0 0 50 H I L BNN
+F3 "https://www.digikey.com/product-detail/en/skyworks-solutions-inc/SMP1330-005LF/863-1101-1-ND/2052233?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 0 0 50 H I L BNN
+F4 "SMP1330-005LF" 0 0 50 H I L BNN
+F5 "SOT-23 Skyworks Solutions" 0 0 50 H I L BNN
+F6 "; Resistance @ If: 1.2ohm; Operating Temperature Range: -65°C to +150°C; Diode Case Style: SOT-23; No. of Pins: 3" 0 0 50 H I L BNN
+F7 "863-1101-1-ND" 0 0 50 H I L BNN
+F8 "Skyworks Solutions" 0 0 50 H I L BNN
+DRAW
+C 0 0 20 0 0 0 N
+P 2 0 0 6 -250 -100 250 -100 N
+P 2 0 0 6 -250 0 -175 0 N
+P 2 0 0 6 -250 50 -250 -100 N
+P 2 0 0 6 -250 100 -250 -50 N
+P 2 0 0 6 -175 -50 -75 0 N
+P 2 0 0 6 -175 0 -175 -50 N
+P 2 0 0 6 -175 50 -175 0 N
+P 2 0 0 6 -75 -50 -100 -75 N
+P 2 0 0 6 -75 0 -175 50 N
+P 2 0 0 6 -75 0 -75 -50 N
+P 2 0 0 6 -75 50 -75 0 N
+P 2 0 0 6 -50 75 -75 50 N
+P 2 0 0 6 0 0 50 0 N
+P 2 0 0 6 0 100 0 0 N
+P 2 0 0 6 25 0 -75 0 N
+P 2 0 0 6 50 -50 150 0 N
+P 2 0 0 6 50 0 50 -50 N
+P 2 0 0 6 50 50 50 0 N
+P 2 0 0 6 125 -75 150 -50 N
+P 2 0 0 6 150 -50 150 0 N
+P 2 0 0 6 150 0 50 50 N
+P 2 0 0 6 150 0 150 50 N
+P 2 0 0 6 150 0 250 0 N
+P 2 0 0 6 150 50 175 75 N
+P 2 0 0 6 250 -100 250 50 N
+P 2 0 0 6 250 -50 250 100 N
+P 2 0 0 6 250 100 -250 100 N
+X 1 1 -300 0 50 R 40 40 0 0 B
+X 2 2 300 0 50 L 40 40 0 0 B
+X 3 3 0 150 50 D 40 40 0 0 B
+ENDDRAW
+ENDDEF
+#
 #End Library
