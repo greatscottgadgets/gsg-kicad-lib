@@ -1,4 +1,5 @@
 (module SOT25 (layer F.Cu) (tedit 57E1BE70)
+  (attr smd)
   (fp_text reference SOT25 (at 0 -0.18) (layer F.SilkS)
     (effects (font (size 0.4 0.5) (thickness 0.1)))
   )

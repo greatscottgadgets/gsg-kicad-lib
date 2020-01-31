@@ -1,4 +1,5 @@
 (module SKY13374-397LF (layer F.Cu) (tedit 57E87B22)
+  (attr smd)
   (fp_text reference SKY13374-397LF (at 0 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2032)))
   )

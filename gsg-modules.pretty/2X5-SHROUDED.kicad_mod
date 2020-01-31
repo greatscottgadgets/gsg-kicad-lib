@@ -1,7 +1,6 @@
 (module 2X5-SHROUDED (layer F.Cu) (tedit 200000)
   (descr "PLATED THROUGH HOLE - 2X5 SHROUDED HEADER")
   (tags "PLATED THROUGH HOLE - 2X5 SHROUDED HEADER")
-  (attr virtual)
   (fp_text reference >NAME (at 5.207 -5.08 90) (layer F.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.127)))
   )

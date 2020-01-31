@@ -1,4 +1,5 @@
 (module GREATFET-PROTO-AREA (layer F.Cu) (tedit 5C9024CE)
+  (attr virtual)
   (fp_text reference REF** (at -15.24 0 270) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

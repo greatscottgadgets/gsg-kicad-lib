@@ -1,4 +1,5 @@
 (module TESTPOINT-50MIL (layer F.Cu) (tedit 50997FDC)
+  (attr virtual)
   (fp_text reference TESTPOINT-50MIL (at 0 0) (layer F.SilkS)
     (effects (font (size 0.381 0.381) (thickness 0.09652)))
   )

@@ -1,4 +1,5 @@
 (module QFN20-4 (layer F.Cu) (tedit 527E5841)
+  (attr smd)
   (fp_text reference QFN20-4 (at 0 0) (layer F.SilkS)
     (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
   )

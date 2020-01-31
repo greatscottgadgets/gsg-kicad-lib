@@ -1,4 +1,5 @@
 (module SKY13351-378LF (layer F.Cu) (tedit 4FB6C2C7)
+  (attr smd)
   (fp_text reference SKY13351-378LF (at 0 0) (layer F.SilkS)
     (effects (font (size 0.50038 0.29972) (thickness 0.0762)))
   )

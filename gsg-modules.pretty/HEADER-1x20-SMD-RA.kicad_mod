@@ -1,5 +1,6 @@
 (module HEADER-1x20-SMD-RA (layer F.Cu) (tedit 5A3D889A)
   (tags CONN)
+  (attr smd)
   (fp_text reference HEADER-1x20 (at 0 0) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.2032)))
   )

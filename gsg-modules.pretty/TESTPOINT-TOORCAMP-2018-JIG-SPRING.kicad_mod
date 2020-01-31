@@ -1,4 +1,5 @@
 (module TESTPOINT-TOORCAMP-2018-JIG-SPRING (layer F.Cu) (tedit 5B214AF9)
+  (attr virtual)
   (fp_text reference REF** (at 27 0 90) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )

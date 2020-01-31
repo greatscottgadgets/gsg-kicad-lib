@@ -1,5 +1,6 @@
 (module HEADER-SMT-2x1 (layer F.Cu) (tedit 5AC6BBDF)
   (tags CONN)
+  (attr smd)
   (fp_text reference HEADER-SMT-2x1 (at 0 0) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.2032)))
   )
