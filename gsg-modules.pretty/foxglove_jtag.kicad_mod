@@ -1,5 +1,6 @@
 (module LOGO (layer F.Cu)
   (at 0 0)
+  (attr virtual)
  (fp_text reference "G***" (at 0 0) (layer F.SilkS) hide
   (effects (font (thickness 0.3)))
   )
