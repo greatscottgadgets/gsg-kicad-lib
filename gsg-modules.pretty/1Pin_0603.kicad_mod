@@ -1,4 +1,5 @@
 (module 1Pin (layer F.Cu) (tedit 5CA28D65)
+  (attr virtual)
   (descr "module 1 pin (ou trou mecanique de percage)")
   (tags DEV)
   (fp_text reference TP1 (at -0.02 -1.54) (layer F.SilkS)

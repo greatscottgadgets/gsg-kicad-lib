@@ -1,4 +1,5 @@
 (module DEA202484HT (layer F.Cu) (tedit 5C58B5EA)
+  (attr smd)
   (fp_text reference DEA202484HT (at 0 0) (layer F.SilkS)
     (effects (font (size 0.381 0.381) (thickness 0.09525)))
   )

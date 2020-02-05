@@ -1,4 +1,5 @@
 (module SKY13350-385LF (layer F.Cu) (tedit 526ED53C)
+  (attr smd)
   (solder_paste_ratio -0.02)
   (fp_text reference SKY13350-385LF (at 0 0) (layer F.SilkS)
     (effects (font (size 0.50038 0.29972) (thickness 0.0762)))

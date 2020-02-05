@@ -1,4 +1,5 @@
 (module BK-912 (layer F.Cu) (tedit 4EEF788B)
+  (attr smd)
   (fp_text reference BT? (at 0 0) (layer F.SilkS)
     (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
   )

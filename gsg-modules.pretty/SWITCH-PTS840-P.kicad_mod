@@ -1,4 +1,5 @@
 (module SWITCH-PTS840-P (layer F.Cu) (tedit 5602DB2A)
+  (attr smd)
   (fp_text reference SWITCH-PTS840-P (at 0 0) (layer F.SilkS)
     (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
   )

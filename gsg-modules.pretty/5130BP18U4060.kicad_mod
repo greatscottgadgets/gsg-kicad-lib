@@ -1,4 +1,5 @@
 (module 5130BP18U4060 (layer F.Cu) (tedit 5C58B808)
+  (attr smd)
   (fp_text reference 5130BP18U4060 (at 0 0) (layer F.SilkS)
     (effects (font (size 0.381 0.381) (thickness 0.09525)))
   )

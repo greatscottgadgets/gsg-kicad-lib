@@ -1,4 +1,5 @@
 (module VBPW34FASR (layer F.Cu) (tedit 585B481F)
+  (attr smd)
   (fp_text reference REF** (at 0 1.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
